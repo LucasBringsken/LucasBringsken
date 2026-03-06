@@ -21,30 +21,45 @@
 ---
 
 ## 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,js,java,cs" />
+### 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,js,java,cs" />
 </p>
+
+</td>
+<td width="50%" align="center" valign="top">
 
 ### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,flask" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,html,css,flask" />
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
 
 ### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
 </p>
+
+</td>
+<td width="50%" align="center" valign="top">
 
 ### ⚙️ Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
