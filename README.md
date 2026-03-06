@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from Germany 🇩🇪</h3>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/LucasBringsken">
     <img src="https://komarev.com/ghpvc/?username=lucasbringsken&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
