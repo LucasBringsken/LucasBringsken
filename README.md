@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying **Computer Science (M.Sc.) at the University of Paderborn**
+- 🎓 Studying **Computer Science (M.Sc.) at the Paderborn University**
 - 💻 Working as a **Software Developer** alongside my studies
-- 🌐 Mainly interested in **full-stack development**, but always curious about other areas of software
+- 🌐 Mainly interested in **full-stack development** and **IT security**, but always curious about other areas
 - 🧪 I enjoy learning new technologies by building **small side projects**
 - ⚙️ Interested in **automation and workflows** (e.g. with n8n)
 - ✍️ Occasionally sharing thoughts about **computer science and tech topics on LinkedIn**
